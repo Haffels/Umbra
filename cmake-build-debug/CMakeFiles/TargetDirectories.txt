@@ -1,0 +1,3 @@
+/Users/harry/Projects/C:C++/Havlock/cmake-build-debug/CMakeFiles/main.dir
+/Users/harry/Projects/C:C++/Havlock/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harry/Projects/C:C++/Havlock/cmake-build-debug/CMakeFiles/rebuild_cache.dir

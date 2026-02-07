@@ -1,0 +1,5 @@
+# ninja log v6
+710	831	1770465309688843630	main	d1647ed1fec9d6bd
+22	710	1770465309001143937	CMakeFiles/main.dir/scripts/main.cpp.o	cb6ed36739695439
+9	269	1770486554125078072	build.ninja	4a211903bb564eb6
+9	269	1770486554125078072	/Users/harry/Projects/C:C++/Havlock/cmake-build-debug/cmake_install.cmake	4a211903bb564eb6

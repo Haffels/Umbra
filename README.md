@@ -5,7 +5,7 @@
 A cross-platform encrypted backup and sync tool that puts privacy first. Think Dropbox, but you own the keys.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![C++](https://img.shields.io/badge/C++-17-00599C.svg)](https://isocpp.org/)
+[![C++](https://img.shields.io/badge/C++-20-00599C.svg)](https://isocpp.org/)
 [![Status](https://img.shields.io/badge/status-in%20development-yellow.svg)]()
 
 ## What is Havlock?

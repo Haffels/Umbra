@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -DOPENSSL_ROOT_DIR=/opt/homebrew/opt/openssl@3 -G Ninja -S /Users/harry/Projects/C:C++/Havlock -B /Users/harry/Projects/C:C++/Havlock/cmake-build-debug
+-- Found OpenSSL: /opt/homebrew/opt/openssl@3/lib/libcrypto.dylib (found version "3.6.1")
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/harry/Projects/C:C++/Havlock/cmake-build-debug
